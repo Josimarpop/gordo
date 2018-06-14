@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.1.4'
+ruby '2.5.1'
 
 #ruby-gemset=gordo_rails_app
 
